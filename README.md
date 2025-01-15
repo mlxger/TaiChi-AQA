@@ -1,2 +1,3 @@
 # TaiChi-AQA
-24-position Tai Chi AQA data set
+24-Form Tai Chi AQA Dataset
+
